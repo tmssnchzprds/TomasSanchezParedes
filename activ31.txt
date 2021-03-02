@@ -1,5 +1,10 @@
 Fichero actividad 3.1
 Modifico el archivo añadiendo una linea
 Modifico el archivo añadiendo otra linea
+<<<<<<< HEAD
 Modifico el archivo añadiendo una linea diferente
 Modifico el archivo añadiendo otra linea diferente
+=======
+Modifico el archivo añadiendo una linea
+Modifico el archivo añadiendo otra linea
+>>>>>>> actividad3
